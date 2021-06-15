@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "sush",
+      "age": "22",
+      "phone": "9854875348",
+      "email": "sushma.skotegar@gmail.com",
+      "gender": "female",
+      "address": "ksdsk"
+    },
+    {
+        "id": 2,
+        "name": "spoo",
+        "age": "22",
+        "phone": "9854875348",
+        "email": "sushma.skotegar@gmail.com",
+        "gender": "female",
+        "address": "ksdsk"
+      },
+      {
+        "id": 3,
+        "name": "vidya",
+        "age": "22",
+        "phone": "9854875348",
+        "email": "sushma.skotegar@gmail.com",
+        "gender": "female",
+        "address": "ksdsk"
+      },
+      {
+        "id": 4,
+        "name": "prajwal",
+        "age": "22",
+        "phone": "9854875348",
+        "email": "sushma.skotegar@gmail.com",
+        "gender": "male",
+        "address": "ksdsk"
+      }
+
+  ]
+}
